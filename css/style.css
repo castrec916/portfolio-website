@@ -1,0 +1,22 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<style>
+body {
+  background-color: #E3DFD8;
+}
+</style>
+
+/*
+Colors used:
+Primary Color (olive green): rgb (154, 170, 151)
+Secondary Color (ligth olive green): rbg (179, 197, 175)
+complimentary color (peach): rbg (255, 236, 226)
+white: rbg (255,255,255)
+light purple grey: rbg (194,193,210)
+slight dark purple grey: rbg ( 153, 152, 167)
+medium dark purple grey: rbg (102, 101, 114)
+dark grey: rbg (67,66,75)
+blackish : rbg (49,49,55)
