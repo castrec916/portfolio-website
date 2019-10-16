@@ -1,13 +1,37 @@
 <style>
 body {
-  background-color: #E3DFD8;
+  background-color: rbg (255,255,255);
+  font-family:'Montserrat', sans-serif;
+  font-size: 16px;/*sets the font size to 16px*/
+  font-weight: 300; /* sets the font weight to 300*/
+  line-height: 1.6; /*sets the line-height to 1.6 * the font-size */
+  color:  rbg (49,49,55);
 }
+
+h1, h2, h3, h4 {
+  line-height: 1.4;
+}
+h1{
+  font-size: 2.75em;
+  font-weight: 700;
+}
+h2 {
+  font-size; 2.25em;
+  font-weight: 700;
+}
+h3{
+font-size: 1.76em;
+font-weight: 400;
+}
+h4{
+  font-size:1.35em;
+  font-weight: 400;
+
+}
+
 </style>
 
-body {
-  font-family: 'Montserrat', sans-serif;
-}
-dfsa
+
 
 /*
 Colors used:
